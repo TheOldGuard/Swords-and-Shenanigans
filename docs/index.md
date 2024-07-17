@@ -1,11 +1,20 @@
-# Obsidian Notes!
+# Swords and Shenanigans
 
-Publish your public notes with MkDocs
+A campaign full of intrigue, skullduggery, and vile sorcery!
+## Eldoria
+*Large Scale World Building*
 
-## Hello World!
+The world of Eldoria is vast, with many cultures, religions, and ideologies vying for territory (both physical and mystical). 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+- [[Drowon - The Contested Westlands]]
+## Campaign
+*Locations and Characters from the Campaign*
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+The campaign primarily takes place in [[Altai - The Divine City]], particularly in the [[Lower City]].
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- [[Characters]]
+- [[Factions]]
+- [[Locations]]
+## Gameplay
+*Custom and Borrowed Mechanics*
+

@@ -22,12 +22,13 @@ There are three major cultural groups in Drowon:
   The continent is currently held by eight nations, or nine if you count the large island off the southern coast.
   
   - [[Novian Khaganate]] - ancestral home of the Taishar people, who once ruled all of Drowon (according to them)
+  - [[Tsen]] - Tiny nation to the north of the [[Novian Khaganate|Khaganate]]
   - [[Kleian Confederacy]] - City-states occupying the tundra and cold grasslands mid-continent, mostly Taishari
   - [[Republic of Uming]] - Taishari with some Quang influence. Historically uneasy relations with [[Exalted Charge of Hoyon|Hoyon]]
   - [[Exalted Charge of Hoyon]] - Theocracy dedicated to [[Hoyonism]], home of the [[Quang]] people
-  - [[Trinella Federation]] - [[Arare]] nation, run by trade organizations, chiefly exports grain. Known for corruption.
+  - [[Trinella Federation]] - [[Arare]] nation, run by trade organizations, chiefly exports grain. Known for corruption
   - [[Bocentia]] - controls Aureus Bay and its mineral-rich hills from their capitol, Vencuri. Considered a protectorate of  [[Empire of Shanar|The Empire of Shanar]]. Arare, with some Eldrinel influence
-  - [[Duchy of Contia]] - The small island off the coast of Trinella and Bocentia, known for its navy and merchant fleets.
+  - [[Duchy of Contia]] - The small island off the coast of Trinella and Bocentia, known for its navy and merchant fleets
 ## Religion
 
   There are several significant religions represented on Drowon.

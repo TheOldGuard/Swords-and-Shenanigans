@@ -11,4 +11,7 @@ There are rumors that the upper levels of command are compromised in some way, w
 
 ## Notable Locations
 
-- [[The Grand Tower]] - center of government presence in the Lower City, headquarters of the Guard
+- [[Grand Tower]] - center of government presence in the Lower City, headquarters of the Guard
+- Port Authority offices
+- [[Westgate]] - the western gate into the Lower City
+- [[Cindergate]] - the eastern gate into the Lower City

@@ -1,0 +1,1 @@
+The Angian Tribelands are a wide continent full of open prairies and roaming Haudar tribes. Though comprised of thousands of individual nomadic groups, they hold a grand council every 6 years where the tribes gather together and the elders discuss matters of mutual interest.

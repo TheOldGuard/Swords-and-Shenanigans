@@ -13,4 +13,4 @@ The Church of Hoyos, the prime body of [[Hoyonism]],  is the governing body of t
 ## Notable Locations
 
 - [[Tideshrine]]
-- [[The Low Church]]
+- [[Low Church]]

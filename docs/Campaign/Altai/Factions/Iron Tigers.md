@@ -1,6 +1,8 @@
 # Iron Tigers
 
-![[Iron Tigers.png|200]]
+![[Iron Tigers.png]]
+
+***Iron Tiger sigil***
 
 The Iron Tigers are apex predators of organized crime within the Lower City. They have their claws deeply embedded in the underbelly of Altai, thriving on protection rackets, extortion schemes, and tribute paid by smaller organizations.
 
@@ -16,3 +18,9 @@ The Tigers are organized into a number of Claws, each run by a trusted lieutenan
 
 - [[Golden Phoenix]] - Up-scale gambling hall
 - [[Signmaker's Shop]] - Front for a fence
+
+## Other Factions
+
+- [[Ember Hand]] (rivals)
+- [[Jade Guard]] (enemies)
+- [[Librarians]] (rivals)

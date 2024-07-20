@@ -117,3 +117,6 @@ If you ever gain 5 Effects from the same Aspect (e.g. you have 5 Demon Aspects),
 | 12<br> | You are unaffected by insanity or mental manipulation.                                    |
 
 \**Make a Magic check with 2 dice, rerolling 1s. They resist as normal.*
+
+---
+- Corruption mechanics adapted from [Weird North by Jim Parkin](https://www.drivethrurpg.com/en/product/324238/Weird-North).

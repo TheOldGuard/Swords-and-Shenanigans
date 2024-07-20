@@ -37,3 +37,6 @@ If you roll any 1s, some fictional complication will arise from the purchase. Ma
 |4|Moderate|Crowbar. Grappling Hook. Holy Symbol. Holy Water. Lantern. Rations (iron. 7 days). Thieves Tools. Wolfsbane. Medium Melee Weapons. Short Bow. Medium armour (5+ wound save). Shield (+1 to wound save)|
 |5|Expensive|Heavy Melee Weapons. Crossbow. Long bow. Heavy armour (4+ wound save). Mounts. Carts and Wagons|
 |6|Priceless|Boats and other high-priced goods|
+
+---
+- Economy system adapted from [EZ money! by Red Dice Diaries](https://reddicediaries.substack.com/p/ez-money)

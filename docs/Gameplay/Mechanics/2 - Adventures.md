@@ -80,3 +80,7 @@ Once you have the plan and detail chosen, make a fortune roll (a la BitD), modif
 ## Payoff
 
 (WIP)
+
+---
+- Flashbacks, Approach and Engagement mechanics borrowed from [Blades in the Dark by John Harper](https://www.drivethrurpg.com/en/product/170689/blades-in-the-dark)
+- Preparation Dice based adapted from Usage Dice from [The Black Hack by David Black](https://the-black-hack.jehaisleprintemps.net/)

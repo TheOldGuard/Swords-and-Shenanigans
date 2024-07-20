@@ -73,3 +73,6 @@ Sometimes you might spend downtime dice on doing something which doesn't have an
 ### Go Shopping
 
 If you spend Downtime Dice going shopping for something you need, this represents spending extra time and effort making or finding a good deal. When you roll to [[3 - Economy#Buying Things|buy something]], add your expended Downtime Dice to the pool.
+
+---
+- Downtime inspired by and adapted from [Blades in the Dark by John Harper](https://www.drivethrurpg.com/en/product/170689/blades-in-the-dark)

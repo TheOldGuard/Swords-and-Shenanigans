@@ -19,7 +19,7 @@ The campaign primarily takes place in [[Altai|Altai - The Divine City]], particu
 
 ### Mechanics
 
-* [[1 - Corruption|Corruption]]
+* [[1 - Corruption|Corruption]] 
 * [[2 - Adventures|Adventures]]
 * [[3 - Economy|Economy]]
 * [[4 - Downtime|Downtime]]

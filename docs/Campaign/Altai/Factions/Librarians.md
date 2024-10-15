@@ -4,6 +4,7 @@ The Librarians are masters of information manipulation, operating covertly to ga
 ## Notable Characters
 
 - Master Sheng (rumored)
+- [[Indexer Jashira]]
 ## Other Factions
 
 - [[Iron Tigers]] (enmity)

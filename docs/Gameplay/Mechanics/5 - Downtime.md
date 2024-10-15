@@ -4,7 +4,7 @@ Between adventures, we have an opportunity to see what the PCs are like when the
 
 ## Downtime Dice
 
-Everyone gets a certain amount of dice to use during Downtime. The amount depends on how many players are present and how much "meat" we want to have in that downtime session. If you run out of downtime dice, you can buy them with [[3 - Economy|Coinpurses]], 1 for 1.
+Everyone gets a certain amount of dice to use during Downtime. The amount depends on how many players are present and how much "meat" we want to have in that downtime session. If you run out of downtime dice, you can buy them with [[4 - Economy|Coinpurses]], 1 for 1.
 
 When it is your turn, you can spend as many of these dice as you want (minimum 1d) on a given activity.
 
@@ -65,14 +65,14 @@ You reduce the party's Enmity by an amount determined by the roll:
 
 Sometimes you might spend downtime dice on doing something which doesn't have any purpose aside from showing or exploring who your character is when they're not being Brazen. Describe what your character is doing, who they're meeting up with, etc. Roll as normal, then gain a benefit as follows:
 
-* 1-3: Immediately gain 1 Karma
-* 4-5: During the next adventure, start with 1 extra Karma
-* 6: During the next adventure, start with an extra Hero Die
-* Crit: Choose any of the above, AND you may either add 1 progress to a project, OR reduce the party's Enmity by 1. Explain how.
+* 1-3: Immediately gain 1 Karma. You may "buy trouble" to gain 1 XP as well.
+* 4-5: Gain 1 XP
+* 6: Gain 2 XP OR Gain 1 XP and A: add 1 progress to a project, or B: reduce the party's Enmity by 1. Explain how. 
+* Crit: As a 6, but you gain 2 XP as well as either 1 progress or -1 Enmity.
 
 ### Go Shopping
 
-If you spend Downtime Dice going shopping for something you need, this represents spending extra time and effort making or finding a good deal. When you roll to [[3 - Economy#Buying Things|buy something]], add your expended Downtime Dice to the pool.
+If you spend Downtime Dice going shopping for something you need, this represents spending extra time and effort making or finding a good deal. When you roll to [[4 - Economy#Buying Things|buy something]], add your expended Downtime Dice to the pool.
 
 ---
 - Downtime inspired by and adapted from [Blades in the Dark by John Harper](https://www.drivethrurpg.com/en/product/170689/blades-in-the-dark)

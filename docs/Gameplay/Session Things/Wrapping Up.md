@@ -2,14 +2,27 @@
 
 At the end of each session, we will do the following things, in order:
 
-1. Character Highlights
-2. Roses and Thorns
+1. End-of-Session Questions
+2. Character Highlights
+3. Roses and Thorns
 
-## 1 - Character Highlights
+## 1 - End-of-Session Questions
+
+As a group, answer the following questions:
+
+- Did we learn something new and important about the world?
+- Did we overcome a notable foe or gain a notable ally?
+- Did the party gain notoriety, glory, or power?
+- Did we try to make sure every character got opportunities to shine?
+- Did we see most of the Player Principles in use?
+
+If at least 3 of the answers were yes, everyone gains 1 XP.
+## 2 - Character Highlights
 
 Go around the table and revisit the highlights set for each character at the start of the session. Did we hit them? If not, how can we do better next time?
 
-## 2 - Roses and Thorns
+If you hit the highlight you gave yourself, gain 1 XP. If you hit the hit the highlight given to you by another player, you both gain 1 XP.
+## 3 - Roses and Thorns
 
 We will go around the table twice. The first time, each person sharing a Thorn before passing the turn to someone else. The second round, each person shares a Rose.
 

@@ -1,6 +1,6 @@
 # Economy
 
-Micromanaging how many gold marks, silver moons, or copper pennies your character is carrying around with you can be fun, but this game is not focused on that aspect of the Brazen life. Instead of individual amounts of coins to keep track of, throughout your adventures you may acquire Coinpurses, abstract representations of money. Coinpurses can be used for many things, such as buying [[4 - Downtime|Downtime]] dice, improving Downtime activity results, or of course, buying things.
+Micromanaging how many gold marks, silver moons, or copper pennies your character is carrying around with you can be fun, but this game is not focused on that aspect of the Brazen life. Instead of individual amounts of coins to keep track of, throughout your adventures you may acquire Coinpurses, abstract representations of money. Coinpurses can be used for many things, such as buying [[5 - Downtime|Downtime]] dice, improving Downtime activity results, or of course, buying things.
 
 ### Wealth
 

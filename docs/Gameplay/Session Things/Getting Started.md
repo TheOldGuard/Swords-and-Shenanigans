@@ -8,7 +8,9 @@ At the start of each session, we will do the following things, in order:
 
 ## 1 -  Character Highlights
 
-Each character has an ever-growing list of cool things they can do. Each player will take turns choosing 1-3 capabilities, quirks, or equipment they would like to have an opportunity to highlight on screen during the session.
+Each character has an ever-growing list of cool things they can do.  Each player will take turns choosing 1 capability, quirk, or piece of equipment they would like to have an opportunity to highlight on screen during the session, as well as one for the person to go after them. The order will be determined randomly each session. The last player in order will choose something to highlight about the first player's character.
+
+When choosing highlights, make it something both interesting and reasonable. If you hit your highlights, you get XP, and if it's a highlight someone else gave you, they get XP also!
 
 ## 2 - Read Player Principles
 

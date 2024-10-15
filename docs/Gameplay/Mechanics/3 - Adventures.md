@@ -1,23 +1,15 @@
 # Adventures
 
 There are different types of adventures your characters might undertake. Some are prepared in advance by the GM with minimal player input. Think of these types of adventures as curated experiences. Other adventures might be prepared in advance based on player input ahead of time. Still others might be built on the fly based on the parameters the GM and players agree upon.
-
 ## Preparation and Flashbacks
 
 Regardless of the type of adventure you undertake, you may have time to prepare ahead of time. Rather than spending time at the table discussing all the ways in which things might go horribly wrong and trying to account for them, we use flashbacks to explain how your characters foresaw their current obstacle and prepared for it accordingly. Maybe they made sure to bring a shovel because they anticipated the need to dig. Or maybe they knew the High Priest had a particular fondness for Angian meade and acquired a nice bottle as a bribe.
-
-Each Prep Die which rolls 3+ stays in the pool for later use. Those which roll 1-2 are spent. (Each Prep Die lasts, on average, for 3 rolls before being depleted.)
-
 ### How To Flashback
 
 State what you want the flashback to entail and what you hope to accomplish with it. Describe the activity you took before the Adventure began, being as cinematic as you feel is warranted. The GM will tell you how many Preparation Dice you need to roll for that flashback, based on how unlikely or difficult it would be.
 ### Rolling the Prep Dice
 
-When rolling Prep Dice, each Preparation Die which rolls 3+ stays in the pool for later use. Those which roll 1 or 2 are spent. (Each Prep Die lasts, on average, 3 rolls before being spent). 
-
-If the party has at least as many Preparation Dice as the flashback requires, you roll that many dice.
-
-If you do NOT have enough Preparation DIce, roll as many as you can, then you may reroll dice which weren't spent (didn't roll a 1 or 2). If at any time you still need to roll more dice but you have none, your flashback failed to bear fruit. 
+Preparation Dice are simply [[2 - Usage Dice|Usage Dice]], and are rolled as such, with one notable exception - when the pool is smaller than the needed roll.  If you do NOT have enough Preparation DIce as determined by the GM, roll as many as you can, then you may reroll dice which weren't spent (didn't roll a 1 or 2). If at any time you still need to roll more dice but you have none, your flashback failed to bear fruit. 
 
 For example, let's say the party has 1 Preparation Die. John wants a flashback which the GM determines costs 3 Preparation Dice. John rolls 1 Prep Die, and gets a 3 (narrowly avoiding losing the die), leaving him with 1 PD rolled and 2 to go. He rolls a second time and gets a 4, leaving him at 2/3. He rolls a final time and gets a 2, consuming the last Prep Die, but successfully getting the flashback.
 
@@ -31,8 +23,6 @@ Karma and Hero Dice can be applied to Prep Dice if they could be applied to a no
 The size of the shared pool of Prep Dice at the start of the adventure is determined by the degree of preparation the party has done before the adventure begins. The party starts with 2 Prep Dice if they complete the first degree of preparation, 4 Prep Dice for second degree, or 8 Prep Dice for the third degree.
 
 The exact fictional circumstances determining what constitutes a "degree of preparation" can be discussed. It may be temporal or material in nature, or some other thing we need not think of ahead of time. For example, if strictly temporal, maybe the first degree is a day of preparation, the second degree is a week, and the third degree is a month (3 weeks).
-
-
 ## In-the-Dark Style Engagement
 
 For some adventures, starting off with a loose framework of what the party's trying to accomplish, then filling in the rest with flashbacks and such is ideal. This is especially true for shorter, more direct adventures. This is a 2-step process: Approach and Engagement.

@@ -20,9 +20,12 @@ The campaign primarily takes place in [[Altai|Altai - The Divine City]], particu
 ### Mechanics
 
 * [[1 - Corruption|Corruption]] 
-* [[2 - Adventures|Adventures]]
-* [[3 - Economy|Economy]]
-* [[4 - Downtime|Downtime]]
+* [[2 - Usage Dice|Usage Dice]]
+* [[3 - Adventures|Adventures]]
+* [[4 - Economy|Economy]]
+* [[5 - Downtime|Downtime]]
+* [[6 - Experience and Advancement|Experience and Advancement]]
+* [[7 - Expertise Dice|Expertise Dice]]
 
 ### Session Things
 

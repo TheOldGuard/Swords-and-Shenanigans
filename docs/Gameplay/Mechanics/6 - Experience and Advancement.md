@@ -8,7 +8,7 @@ The important thing is that advancements which add new things to the palette nee
 
 ## Available Advancements
 
-- 10 XP - Gain an Inclination
-- 10 XP - Gain a permanent Strike of damage (limit 2 extra Strikes)
-- 5 XP - Gain a [[7 - Expertise Dice|Expertise Die]] (limit of 6)
-- 5 XP - Gain an Advancement Card
+- 20 XP - Gain an Inclination
+- 20 XP - Gain a permanent Strike of damage (limit 2 extra Strikes)
+- 10 XP - Gain an [[7 - Expertise Dice|Expertise Die]] (limit of 6)
+- 10 XP - Gain an Advancement Card

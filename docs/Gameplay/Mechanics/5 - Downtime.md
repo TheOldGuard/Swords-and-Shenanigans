@@ -10,7 +10,7 @@ When it is your turn, you can spend as many of these dice as you want (minimum 1
 
 Add the spent dice with any Boons you might otherwise have for the action you're taking, then roll. The results of the roll vary depending on the specific type of activity. Generally, a 1-3 either does not accomplish what you're trying to accomplish or isn't very effective, a 4-5 is moderate success (possibly with a trade-off of some sort), a 6 is success, and if you get multiple 6s, it is critically successful.
 
-If any 1s are rolled, a complication arises. Hero dice may be used as normal to reroll 1s.
+If any 1s are rolled, a [[5a - Complications|complication]] arises. Hero dice may be used as normal to reroll 1s.
 
 Karma cannot be used for downtime activities. Instead, you can explain how you were able to leverage your material assets to improve the result. In this way, Coinpurses may be used to improve the level of success by one category per Coinpurse spent.  For example if you roll a 2, you can spend 1 Coinpurse to increase the result to the 4-5 range, and another to raise it again to a 6 result. However, like with Karma, if the highest die result is a 1, Coinpurses cannot be used to improve the result of that die.
 

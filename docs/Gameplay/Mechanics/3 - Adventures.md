@@ -67,9 +67,11 @@ Once you have the plan and detail chosen, make a fortune roll (a la BitD), modif
 * **4/5**: Mixed result. The situation could go either way when the action starts
 * **1-3**: Bad result. Things are not going your way when the action starts.
 
-## Payoff
+## Aftermath
 
-(WIP)
+See [[3a - Enmity|Enmity]].
+
+
 
 ---
 - Flashbacks, Approach and Engagement mechanics borrowed from [Blades in the Dark by John Harper](https://www.drivethrurpg.com/en/product/170689/blades-in-the-dark)

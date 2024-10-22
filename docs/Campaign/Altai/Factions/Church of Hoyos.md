@@ -7,7 +7,8 @@ The Church of Hoyos, the prime body of [[Hoyonism]],  is the governing body of t
 - [[Grand Sage Aranya]]
 - [[Magus Baroma]]
 - [[Sage Darewan]]
-- [[Bishop Palimar]]
+	- [[Bishop Palimar]]
+	- [[Sagewarden Rondell]]
 - [[Sister Elira]]
 - [[High Priest Arathas]]
 ## Notable Locations

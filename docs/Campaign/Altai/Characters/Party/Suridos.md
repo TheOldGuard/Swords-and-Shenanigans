@@ -5,6 +5,15 @@
 Clever and charming, the unspoken leader of the group.
 
 Originally from [[Bocentia]].
+
+## Contacts / Associates
+
+- [[Bina the Messenger]] - formerly a member of Suridos's spying operation
+- [[Taolo Two-Fist]] - took over [[Parat (deceased)|Parat]]'s territory for the [[Iron Tigers]].
+- [[Indexer Jashira]] - contact within the [[Librarians]].
+
+---
+
 ## Notable Abilities and Skills
 
 - 

@@ -6,6 +6,13 @@
 A craftsman, archaeologist, scholar, and occultist.
 
 Originally from [[Bocentia]].
+
+## Contacts / Associates
+
+- [[Orena]] - runs [[Silk Leaf Teahouse]]
+- [[Opaulak Bonetender]] - skull in Rargain's possession
+
+---
 ## Notable Abilities and Items
 
 - Inspiring - can share karma with anyone I can see

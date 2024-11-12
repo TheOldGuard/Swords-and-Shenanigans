@@ -6,6 +6,13 @@
 An old army officer, now blind to everything but the spirits he speaks with.
 
 Originally from [[Bocentia]].
+
+## Contacts / Associates
+
+- [[Rossau]] - Ember Hand fighting pits, knows Kostas as "The Badger."
+- [[Indexer Jashira]] - Librarian sorceress
+
+---
 ## Notable Abilities and Items
 
 - Trained soldier with precognitive abilities that developed when he lost his sight that allow him to avoid attacks against him and turn attacks back against his enemies.

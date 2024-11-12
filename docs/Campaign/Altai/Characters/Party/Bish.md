@@ -6,6 +6,11 @@
 A scoundrel with a nose for treasure, deft hands, and always at least a few knives.
 
 Originally from [[Bocentia]].
+## Contacts / Associates
+
+- [[Rossau]] - Ember Hand fighting pits
+
+---
 ## Notable Abilities and Items
 
 - Agile and hard to pin down with a tendency for valuables to make their way into his pockets. 

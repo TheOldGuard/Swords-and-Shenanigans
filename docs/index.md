@@ -13,6 +13,8 @@ The world of Eldoria is vast, with many cultures, religions, and ideologies vyin
 *Locations and Characters from the Campaign*
 
 The campaign primarily takes place in [[Altai|Altai - The Divine City]], particularly in the [[Altai#The Lower City|Lower City]].
+
+- [[Shadowmere Protection Guild|Party]]
 ## Gameplay
 
 *Custom and Borrowed Mechanics*
@@ -22,8 +24,10 @@ The campaign primarily takes place in [[Altai|Altai - The Divine City]], particu
 * [[1 - Corruption|Corruption]] 
 * [[2 - Usage Dice|Usage Dice]]
 * [[3 - Adventures|Adventures]]
+	* [[3a - Enmity|Enmity]]
 * [[4 - Economy|Economy]]
 * [[5 - Downtime|Downtime]]
+	* [[5a - Complications|Complications]]
 * [[6 - Experience and Advancement|Experience and Advancement]]
 * [[7 - Expertise Dice|Expertise Dice]]
 

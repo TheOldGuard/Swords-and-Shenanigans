@@ -35,7 +35,7 @@ If you ever gain 5 Effects from the same Aspect (e.g. you have 5 Demon Aspects),
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1         | You can move small nearby objects with your mind.                                                                                                          |
 | 2         | You can create dim light from all of your fingertips simultaneously                                                                                        |
-| 3         | Your dreams or tinged with dread, but always contain a hidden truth.                                                                                       |
+| 3         | Your dreams are tinged with dread, but always contain a hidden truth.                                                                                      |
 | 4         | You can sense nearby otherworldly beings and objects.                                                                                                      |
 | 5         | You can unerringly impersonate the voice of anyone with whom you converse.                                                                                 |
 | 6         | Gain one [[1 - Corruption#Demon Aspects\|Demon Aspect]]                                                                                                    |

@@ -16,7 +16,14 @@ Originally from [[Bocentia]].
 
 ## Notable Abilities and Skills
 
-- 
+- Amazing Cook
+- Fears No Man
+- Dandy (bonus on social rolls)
+- Victory in Failure (extra karma from failures)
+- Beast speech
+- Beast friend
+- Slippery
+- Beast Aid
 
 
 ---

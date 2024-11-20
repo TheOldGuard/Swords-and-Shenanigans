@@ -9,6 +9,7 @@ Originally from [[Bocentia]].
 ## Contacts / Associates
 
 - [[Rossau]] - Ember Hand fighting pits
+- [[Elyndra the Shade]] - Thief in The Baker's employ
 
 ---
 ## Notable Abilities and Items

@@ -8,4 +8,5 @@ He is said to have designs on overthrowing the government in [[Altai]] as they a
 ## Associates
 
 - [[Kadeem]]
+- [[Elyndra the Shade]] - employee
 - [[Shadowmere Protection Guild]] - once hired them for a job

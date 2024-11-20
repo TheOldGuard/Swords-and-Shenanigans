@@ -11,6 +11,7 @@ Originally from [[Bocentia]].
 
 - [[Orena]] - runs [[Silk Leaf Teahouse]]
 - [[Opaulak Bonetender]] - skull in Rargain's possession
+- [[Schiller the Antiquarian]] - Occult graduate student posing as an antiquities dealer
 
 ---
 ## Notable Abilities and Items

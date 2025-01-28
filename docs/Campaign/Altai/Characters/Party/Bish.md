@@ -14,6 +14,7 @@ Originally from [[Bocentia]].
 ---
 ## Notable Abilities and Items
 
+- Always has two daggers on hand. _Always._
 - Agile and hard to pin down with a tendency for valuables to make their way into his pockets. 
 - Has an arguably supernatural sense of when valuables are in his vicinity. 
 - Likes to make trophies of symbols of the rich and powerful. 

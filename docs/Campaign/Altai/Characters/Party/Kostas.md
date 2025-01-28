@@ -35,7 +35,7 @@ Originally from [[Bocentia]].
 - Kostas’s time on the streets as a beggar has allowed him to develop skills at gathering information just by listening to snippets of conversation and rumors.
 
 ---
-## Corruption
+## Corruption - 10
 
 ### General
 
@@ -43,6 +43,10 @@ Originally from [[Bocentia]].
 - Dreams are tinged with dread, but always contain a hidden truth.
 - Everyone around him always hears a rasping whisper
 
+### Demon
+
+- Ignite and extinguish small flames at will
+- Your touch can wither muscle
 ### Snake
 
 - Grip strength ten times stronger than a normal human

@@ -31,7 +31,7 @@ Originally from [[Bocentia]].
 - Advancement: Once per Session reroll a 1 
 
 ---
-## Corruption - 12
+## Corruption - 14
 
 ### General 
 
@@ -43,6 +43,7 @@ Originally from [[Bocentia]].
 ### Demon
 
  - I am unaffected by fatigue and no longer need sleep 
+ - I know someone's location if they speaks my name.
 
 ### Stranger
 

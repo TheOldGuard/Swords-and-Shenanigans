@@ -26,9 +26,10 @@ Originally hails from [[Gasalia]]
 - (Catlike) Sergio moves effortlessly and most hits that would knock down others do not knock him down, and he falls gracefully.
 
 ---
-## Corruption - 2
+## Corruption - 4
 
 ### General
 
 - Sergio has developed the ability to move small objects with his mind, he has tried to embrace this like the group he is with, but it makes him uneasy to use this ability. He does not like corruption and is actively looking for a way to reverse corruption, for both his group and him.
-
+- Scaled skin (Snake aspect) - Sergio's skin has turned to hard scales, which provide some small amount of protection
+- Bane to resist damage from silver weapons

@@ -31,7 +31,7 @@ Originally from [[Bocentia]].
 - Advancement: Once per Session reroll a 1 
 
 ---
-## Corruption - 14
+## Corruption - 9
 
 ### General 
 

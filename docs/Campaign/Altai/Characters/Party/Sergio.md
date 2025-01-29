@@ -30,6 +30,4 @@ Originally hails from [[Gasalia]]
 
 ### General
 
-- Sergio has developed the ability to move small objects with his mind, he has tried to embrace this like the group he is with, but it makes him uneasy to use this ability. He does not like corruption and is actively looking for a way to reverse corruption, for both his group and him.
 - Scaled skin (Snake aspect) - Sergio's skin has turned to hard scales, which provide some small amount of protection
-- Bane to resist damage from silver weapons

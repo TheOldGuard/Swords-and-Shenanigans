@@ -35,7 +35,7 @@ Originally from [[Bocentia]].
 - Kostas’s time on the streets as a beggar has allowed him to develop skills at gathering information just by listening to snippets of conversation and rumors.
 
 ---
-## Corruption - 10
+## Corruption - 6
 
 ### General
 

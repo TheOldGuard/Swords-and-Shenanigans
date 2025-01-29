@@ -23,7 +23,7 @@ Originally from [[Bocentia]].
 - With a humble upbringing it has ever been his goal to acquire enough wealth that he might never see where he started from atop the pile. Though now as magical corruption continues to warp his body and mind he now also seeks a better understanding of the powerful beings that are often the sources of these abilities.
 
 ---
-## Corruption - 7
+## Corruption - 5
 
 ### Demon
 

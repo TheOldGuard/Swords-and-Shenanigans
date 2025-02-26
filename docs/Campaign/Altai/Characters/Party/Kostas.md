@@ -30,7 +30,7 @@ Originally from [[Bocentia]].
 	- Aldus – Timid Messenger
 	- Mindaral – Corporal (Know-It-All)
 	- Mineaus – Field Medic
-	- Ildos – Adjutant
+	- Ildos – Adjutant, precise, but doesn't seem to grasp the reality of death
 - Kostas used to enjoy woodworking and has recently rediscovered the hobby.
 - Kostas’s time on the streets as a beggar has allowed him to develop skills at gathering information just by listening to snippets of conversation and rumors.
 

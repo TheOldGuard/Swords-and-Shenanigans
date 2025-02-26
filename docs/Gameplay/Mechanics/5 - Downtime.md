@@ -70,6 +70,17 @@ Sometimes you might spend downtime dice on doing something which doesn't have an
 * 6: Gain 2 XP OR Gain 1 XP and A: add 1 progress to a project, or B: reduce the party's Enmity by 1. Explain how. 
 * Crit: As a 6, but you gain 2 XP as well as either 1 progress or -1 Enmity.
 
+### Crafting
+
+Making your own stuff can be interesting and fulfilling. If you want to craft, declare what you want to make and how you intend to make it. Depending on those things, you may need to spend more time or resources (Coinpurses) to achieve the desired result. If the thing you are making takes time, treat it like a Long-Term Project.
+
+In situations where you are making consumables, your downtime activity roll determines the number of Usage Dice worth of uses you are able to craft:
+
+* 1-3: None
+* 4/5: 1 UD
+* 6: 2 UD
+* Crit: 3 UD
+
 ### Go Shopping
 
 If you spend Downtime Dice going shopping for something you need, this represents spending extra time and effort making or finding a good deal. When you roll to [[4 - Economy#Buying Things|buy something]], add your expended Downtime Dice to the pool.

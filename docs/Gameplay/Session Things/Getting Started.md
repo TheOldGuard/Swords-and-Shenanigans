@@ -2,15 +2,15 @@
 
 At the start of each session, we will do the following things, in order:
 
-1. Character Highlights
+1. Character Flags
 2. Read Player Principles
 3. Recap
 
-## 1 -  Character Highlights
+## 1 -  Character Flags
 
-Each [[Shadowmere Protection Guild|party member]] has an ever-growing list of cool things they can do.  Each player will take turns choosing 1 capability, quirk, or piece of equipment they would like to have an opportunity to highlight on screen during the session, as well as one for the person who goes before you. The order will be determined randomly each session. The first player in order will choose something to highlight about the last player's character after they have gone.
+Each [[Shadowmere Protection Guild|party member]] has one or more Flags, signposts for others to interact with them in a way that lets them showcase an important aspect of the character. Take turns going over each character's flag(s).
 
-When choosing highlights, make it something both interesting and reasonable. If you hit your highlights, you get XP, and if it's a highlight someone else gave you, they get XP also!
+At the [[Wrapping Up|end of the session]], you will gain XP for Flag hits (bonus XP if everyone had at least one of their flags hit)
 
 ## 2 - Read Player Principles
 

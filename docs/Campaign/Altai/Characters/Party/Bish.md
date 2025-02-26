@@ -1,6 +1,6 @@
 # Bish
 
-**Alias**: Jorven Shadowbrook
+**Alias**: Jorven Shadowbrook, Thorne Duskrunner (solo thief alias)
 **Faction**: [[Shadowmere Protection Guild]]
 
 A scoundrel with a nose for treasure, deft hands, and always at least a few knives.
@@ -10,6 +10,7 @@ Originally from [[Bocentia]].
 
 - [[Rossau]] - Ember Hand fighting pits
 - [[Elyndra the Shade]] - Thief in The Baker's employ
+- [[Veylin Caros]] - Curiosity and information broker in the Upper City
 
 ---
 ## Notable Abilities and Items

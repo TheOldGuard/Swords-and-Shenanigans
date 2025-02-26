@@ -17,11 +17,13 @@ As a group, answer the following questions:
 - Did we see most of the Player Principles in use?
 
 If at least 3 of the answers were yes, everyone gains 1 XP.
-## 2 - Character Highlights
+## 2 - Character Flags
 
-Go around the table and revisit the highlights set for each character at the start of the session. Did we hit them? If not, how can we do better next time?
+Look at each of the characters' Flags and do the following:
 
-If you hit the highlight you gave yourself, gain 1 XP. If you hit the hit the highlight given to you by another player, you both gain 1 XP.
+- If at least one of your character's Flags was hit, gain 1 XP
+- If you hit at least one other character's Flag, gain 1 XP
+- If every character had at least one of their Flags hit, gain 1 XP
 ## 3 - Roses and Thorns
 
 We will go around the table twice. The first time, each person sharing a Thorn before passing the turn to someone else. The second round, each person shares a Rose.

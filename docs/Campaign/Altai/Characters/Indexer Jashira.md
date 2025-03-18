@@ -14,3 +14,4 @@ Jashira is an Indexer of the [[Librarians]], a functionary responsible for disce
 ## Associates
 
 - [[Shadowmere Protection Guild]]
+- [[Archivist Velkor]] - sometimes work together

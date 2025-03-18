@@ -5,7 +5,9 @@ The Librarians are masters of information manipulation, operating covertly to ga
 
 - Master Sheng (rumored)
 - [[Indexer Jashira]]
+- [[Archivist Velkor]]
 ## Other Factions
 
-- [[Iron Tigers]] (enmity)
-- [[Handmaidens]] (uneasy truce)
+- [[Iron Tigers]] - enmity
+- [[Handmaidens]] - uneasy truce
+- [[Kinnaras]] - Non-violent rivals in similar spheres

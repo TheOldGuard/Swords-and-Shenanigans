@@ -15,10 +15,8 @@ At the [[Wrapping Up|end of the session]], you will gain XP for Flag hits (bonus
 ## 2 - Read Player Principles
 
 - Be Brazen. Embrace the pulp.
-- Be creative with what you've got.
 - Ask questions to help everyone understand the situation.
 - Be open about your goals and intentions. The "why" is more useful than the "what."
-- The GM is always honest. Characters played by them may or may not be.
 - Hero Dice and Karma reset each session. Use them to do cool stuff!
 - Be ambitious. Set goals. Earn your reputation. Pull the lever.
 - Show your Corruption on screen.

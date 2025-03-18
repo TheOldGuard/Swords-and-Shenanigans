@@ -6,6 +6,8 @@ Appear to be working with (or for) [[Sage Darewan]] in his current machinations.
 ## Notable Characters
 
 - Grandmaster Rajiv (rumored)
+- [[Eshana Velkris|Master Eshana Velkris]] - Keeper of Secrets
+- [[Fang Al'shaan]] - Lead negotiator
 
 ## Notable Locations
 
@@ -13,4 +15,4 @@ Appear to be working with (or for) [[Sage Darewan]] in his current machinations.
 
 ## Other Factions
 
-- Unknown
+- [[Librarians]] - non-violent rivals in similar spheres of influence

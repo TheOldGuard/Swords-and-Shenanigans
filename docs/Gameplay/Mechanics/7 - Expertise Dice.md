@@ -21,4 +21,4 @@ You can, once per round, trade Expertise Dice for Karma or a Hero Die. This refl
 - Buy a Hero Die for 2 Expertise Dice
 
 ---
-Adapted from Power Dice found in [EZD6: DM Scotty’s Brain Candy (Optional Rules for EZD6 Core](https://www.drivethrurpg.com/en/product/471702/ezd6-dm-scotty-s-brain-candy-optional-rules-for-ezd6-core)
+Adapted from Power Dice found in [EZD6: DM Scotty’s Brain Candy (Optional Rules for EZD6 Core)](https://www.drivethrurpg.com/en/product/471702/ezd6-dm-scotty-s-brain-candy-optional-rules-for-ezd6-core)

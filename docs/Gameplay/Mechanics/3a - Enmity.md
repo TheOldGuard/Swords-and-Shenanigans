@@ -20,3 +20,6 @@ Gain +1 Enmity for a high-profile or well-connected target. Gain +1 Enmity if th
 As the PCs incur more Enmity, the [[5a - Complications|Complications]] which arise from their actions will become more severe. Once Enmity reaches 10, the story will reach a tipping point. There will be a Major Shift within the Lower City, balancing the scales against the party on a grand scale.
 
 Major Shifts will be recorded, and will escalate Complications until their effects are righted or no longer relevant.  For example, if the Major Shift resulted in the Jade Guard placing a standing bounty on the heads of the PCs, Complication rolls would be escalated for as long as the bounty stands.
+
+---
+Enmity is heavily inspired by (e.g. copied almost directly from) the Heat mechanic in [Blades in the Dark by John Harper](https://www.drivethrurpg.com/en/product/170689/blades-in-the-dark)

@@ -28,6 +28,7 @@ The world of Eldoria is vast, with many cultures, religions, and ideologies vyin
 * [[4 - Economy|Economy]]
 * [[5 - Downtime|Downtime]]
 	* [[5a - Complications|Complications]]
+	* [[5b - Random Magic or Potion Effects|Random Magic/Potion Effects]]
 * [[6 - Experience and Advancement|Experience and Advancement]]
 * [[7 - Expertise Dice|Expertise Dice]]
 

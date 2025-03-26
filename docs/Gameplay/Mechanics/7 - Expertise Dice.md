@@ -1,6 +1,6 @@
 # Expertise Dice
 
-Through spending [[6 - Experience and Advancement|XP]], you can gain a pool of Expertise Dice, which allow you to accomplish even more impressive feats.  These dice reset each session like Karma and Hero Dice do.  You also regain one Expertise Die after a full night's rest, or through particularly notable events determined by the GM. There are several ways that Expertise Dice may be used.
+Through spending [[6 - Experience and Advancement|XP]], you can gain a pool of Expertise Dice, which allow you to accomplish even more impressive feats.  These dice reset each session like Karma and Hero Dice do.  You also regain one Expertise Die after a full night's rest, or through particularly notable deeds determined by the GM. There are several ways that Expertise Dice may be used.
 ## Post-Hoc Boons
 
 You can spend an Expertise Die to add a die to any roll you make, and you need not decide to do so until after you see the result. This is like getting a boon on the roll after it already happened. You may repeat this as many times as you like, until you are satisfied with the roll, or you run out of Expertise Dice.
@@ -19,3 +19,6 @@ You can, once per round, trade Expertise Dice for Karma or a Hero Die. This refl
 
 - Buy 2 Karma for 1 Expertise Die
 - Buy a Hero Die for 2 Expertise Dice
+
+---
+Adapted from Power Dice found in [EZD6: DM Scotty’s Brain Candy (Optional Rules for EZD6 Core](https://www.drivethrurpg.com/en/product/471702/ezd6-dm-scotty-s-brain-candy-optional-rules-for-ezd6-core)
